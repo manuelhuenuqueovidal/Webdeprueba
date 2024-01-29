@@ -1,0 +1,17 @@
+body {
+    background-color: hsl(61, 93%, 33%);
+}
+
+#wrapper {
+    background: rgb(255, 0, 0);
+}
+
+.text-blue {
+
+    color: hsl(310, 89%, 50%);
+}
+
+.text-red {
+    color: hsl(46, 79%, 15%);
+}
+
